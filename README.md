@@ -1,11 +1,4 @@
 # Unreal Engine 4 Project - BomberMan 2
-
-
--------------------
-
-[TOC]
-
-
 ## Development Steps
 Step1. Create basic map 
 Step2. Create 2 players 
@@ -44,14 +37,11 @@ Explode Bomb   `Num0`
 - email：<fqchenxin@gmail.com>
 
 ## References
-Background Music: 
-**1. Yaver Clap**
+1.Background Music:  Yaver Clap
 https://soundcloud.com/freebmusic/yaver-clap-momentum-freebackgroundmusic
 
-Pick Up Sound effect:  
-**2. Retro Bonus Pickup SFX **
+2.Pick Up Sound effect:  Retro Bonus Pickup SFX 
 https://freesound.org/people/suntemple/sounds/253172/
-
 
 
 
